@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\Project8_Starter\Project8\bin\Debug\Project8.exe
+C:\Users\Daniel\Desktop\Project8_Starter\Project8\bin\Debug\Project8.pdb
+C:\Users\Daniel\Desktop\Project8_Starter\Project8\obj\Debug\Project8.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Project8_Starter\Project8\obj\Debug\Project8.exe
+C:\Users\Daniel\Desktop\Project8_Starter\Project8\obj\Debug\Project8.pdb
+C:\Users\Daniel\Desktop\Project8_Starter\Project8\obj\Debug\Project8.csprojResolveAssemblyReference.cache

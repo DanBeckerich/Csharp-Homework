@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\Ex7_2\Ex7_2\bin\Debug\Ex7_2.exe.config
+C:\Users\Daniel\source\repos\Ex7_2\Ex7_2\bin\Debug\Ex7_2.exe
+C:\Users\Daniel\source\repos\Ex7_2\Ex7_2\bin\Debug\Ex7_2.pdb
+C:\Users\Daniel\source\repos\Ex7_2\Ex7_2\obj\Debug\Ex7_2.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\source\repos\Ex7_2\Ex7_2\obj\Debug\Ex7_2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Ex7_2\Ex7_2\obj\Debug\Ex7_2.exe
+C:\Users\Daniel\source\repos\Ex7_2\Ex7_2\obj\Debug\Ex7_2.pdb
+C:\Users\Daniel\Desktop\Ex7_2\Ex7_2\bin\Debug\Ex7_2.exe.config
+C:\Users\Daniel\Desktop\Ex7_2\Ex7_2\bin\Debug\Ex7_2.exe
+C:\Users\Daniel\Desktop\Ex7_2\Ex7_2\bin\Debug\Ex7_2.pdb
+C:\Users\Daniel\Desktop\Ex7_2\Ex7_2\obj\Debug\Ex7_2.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Ex7_2\Ex7_2\obj\Debug\Ex7_2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Ex7_2\Ex7_2\obj\Debug\Ex7_2.exe
+C:\Users\Daniel\Desktop\Ex7_2\Ex7_2\obj\Debug\Ex7_2.pdb

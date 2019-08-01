@@ -1,0 +1,9 @@
+The 4 loops are while, do while, for. and foreach.
+
+The While loop is a pretest loop, everything inside the braces will be executed as long as the boolean expression is true; this is called a pretest loop. These types of loops can be useful for when you have a block of code that you need to execute for an undetermined amount of time, such as the main loop for a video game. 
+
+Do while is similar to While loops, but the code in the loop will always be run at least once, then the boolean statement is tested to see if it will repeat again; this is called post-test loop.Do while loops can be used in similar ways to while loops, but a do while loop should be used if you need the code to be executed at least once.
+
+For loops iterate through a block of code a set number of times using a variable, a boolean statement, and an increment or decrement amount. The boolean statement is tested first, the code is executed, then the variable is incremented (or decremented) by an amount. then the boolean statement is tested again.this sort of loop is useful for executing code a set number of times while keeping track of how many times you have run the code. in some instances, this can be a better option for iterating through arrays, though foreach loops are often easier to use.
+
+Foreach loops take a collection of items and iterates through them. it is similar to how for loops work, but it uses fewer variables.these types of loops are useful for when you need to iterate through an array or some other form of data collection. these are easier to use as you do not need to keep track of several variables like you do when you use for loops.

@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\MD 5\DelgateKeypress\bin\Debug\DelgateKeypress.exe.config
+C:\Users\Daniel\source\repos\MD 5\DelgateKeypress\bin\Debug\DelgateKeypress.exe
+C:\Users\Daniel\source\repos\MD 5\DelgateKeypress\bin\Debug\DelgateKeypress.pdb
+C:\Users\Daniel\source\repos\MD 5\DelgateKeypress\obj\Debug\DelgateKeypress.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\MD 5\DelgateKeypress\obj\Debug\DelgateKeypress.exe
+C:\Users\Daniel\source\repos\MD 5\DelgateKeypress\obj\Debug\DelgateKeypress.pdb
+C:\Users\Daniel\source\repos\MD 5\DelgateKeypress\obj\Debug\DelgateKeypress.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MD 5\DelgateKeypress\bin\Debug\DelgateKeypress.exe.config
+C:\Users\Daniel\Desktop\MD 5\DelgateKeypress\bin\Debug\DelgateKeypress.exe
+C:\Users\Daniel\Desktop\MD 5\DelgateKeypress\bin\Debug\DelgateKeypress.pdb
+C:\Users\Daniel\Desktop\MD 5\DelgateKeypress\obj\Debug\DelgateKeypress.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MD 5\DelgateKeypress\obj\Debug\DelgateKeypress.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\MD 5\DelgateKeypress\obj\Debug\DelgateKeypress.exe
+C:\Users\Daniel\Desktop\MD 5\DelgateKeypress\obj\Debug\DelgateKeypress.pdb

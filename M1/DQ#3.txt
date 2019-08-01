@@ -1,0 +1,1 @@
+? is essentially an IF statement. for example, it takes 3 parameters. one boolean and two literals or variables. like so (bool) ? A : B. If the boolean expression is true, then A is returned, if it is false, then B is returned. There is no real reason to use this operator over an IF statement other than saving a few lines of code.

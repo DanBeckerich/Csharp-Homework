@@ -1,0 +1,7 @@
+C:\Users\Daniel\source\repos\Module2Exercies1\Module2Exercies1\bin\Debug\Module2Exercies1.exe.config
+C:\Users\Daniel\source\repos\Module2Exercies1\Module2Exercies1\bin\Debug\Module2Exercies1.exe
+C:\Users\Daniel\source\repos\Module2Exercies1\Module2Exercies1\bin\Debug\Module2Exercies1.pdb
+C:\Users\Daniel\source\repos\Module2Exercies1\Module2Exercies1\obj\Debug\Module2Exercies1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\source\repos\Module2Exercies1\Module2Exercies1\obj\Debug\Module2Exercies1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Module2Exercies1\Module2Exercies1\obj\Debug\Module2Exercies1.exe
+C:\Users\Daniel\source\repos\Module2Exercies1\Module2Exercies1\obj\Debug\Module2Exercies1.pdb

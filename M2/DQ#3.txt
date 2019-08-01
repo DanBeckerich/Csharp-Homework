@@ -1,0 +1,12 @@
+Access modifiers dictate where and how an object, function, or method are accessed; often used for security purposes. there are several different types, outlined below.
+
+public: No restrictions
+
+protected: Access is limited to its class
+
+internal access: restricted to the current assembly
+
+protected internal access: restricted to current assembly or classes derived from the current class or types derived from the containing class in the current assembly
+
+private: access is limited to the containing type
+

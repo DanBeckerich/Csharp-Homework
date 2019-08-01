@@ -1,0 +1,6 @@
+C:\Users\Daniel\source\repos\Ex_2\Ex_2\bin\Debug\Ex_2.exe.config
+C:\Users\Daniel\source\repos\Ex_2\Ex_2\bin\Debug\Ex_2.exe
+C:\Users\Daniel\source\repos\Ex_2\Ex_2\bin\Debug\Ex_2.pdb
+C:\Users\Daniel\source\repos\Ex_2\Ex_2\obj\Debug\Ex_2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Ex_2\Ex_2\obj\Debug\Ex_2.exe
+C:\Users\Daniel\source\repos\Ex_2\Ex_2\obj\Debug\Ex_2.pdb

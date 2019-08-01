@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{03BA8A8F-F01D-4336-8574-2A17B1B2EF45}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project8/Players/TemplatePlayer.cs">
+    <Files>
+      <File FileName="Project8/Program.cs" Line="1" Column="1" />
+      <File FileName="Project8/Players/TemplatePlayer.cs" Line="36" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Project8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

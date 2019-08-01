@@ -1,0 +1,1 @@
+Namespace's are used to organize very large segments of code into more specific sections. They allow you to reuse names of classes, functions, methods, and many other things. they are good tools for managing large code bases. 

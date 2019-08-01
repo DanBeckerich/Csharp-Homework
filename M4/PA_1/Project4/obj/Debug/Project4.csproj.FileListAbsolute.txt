@@ -1,0 +1,14 @@
+/Users/rich/Desktop/Resources/Baker/CS3110 C# Programming/Solutions/Project4_Starter/Project4/obj/Debug/Project4.csprojAssemblyReference.cache
+/Users/rich/Desktop/Resources/Baker/CS3110 C# Programming/Solutions/Project4_Starter/Project4/obj/Debug/Project4.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Project4_Starter\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Project4_Starter\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Project4_Starter\Project4\bin\Debug\Project4.exe
+C:\Users\Daniel\Desktop\Project4_Starter\Project4\bin\Debug\Project4.pdb
+C:\Users\Daniel\Desktop\Project4_Starter\Project4\obj\Debug\Project4.exe
+C:\Users\Daniel\Desktop\Project4_Starter\Project4\obj\Debug\Project4.pdb
+C:\Users\Daniel\Desktop\C#\M4\PA_1\Project4\bin\Debug\Project4.exe
+C:\Users\Daniel\Desktop\C#\M4\PA_1\Project4\bin\Debug\Project4.pdb
+C:\Users\Daniel\Desktop\C#\M4\PA_1\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\C#\M4\PA_1\Project4\obj\Debug\Project4.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\C#\M4\PA_1\Project4\obj\Debug\Project4.exe
+C:\Users\Daniel\Desktop\C#\M4\PA_1\Project4\obj\Debug\Project4.pdb

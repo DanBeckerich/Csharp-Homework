@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\MD6\MD6\bin\Debug\MD6.exe.config
+C:\Users\Daniel\source\repos\MD6\MD6\bin\Debug\MD6.exe
+C:\Users\Daniel\source\repos\MD6\MD6\bin\Debug\MD6.pdb
+C:\Users\Daniel\source\repos\MD6\MD6\obj\Debug\MD6.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\source\repos\MD6\MD6\obj\Debug\MD6.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\MD6\MD6\obj\Debug\MD6.exe
+C:\Users\Daniel\source\repos\MD6\MD6\obj\Debug\MD6.pdb
+C:\Users\Daniel\Desktop\MD6\MD6\bin\Debug\MD6.exe.config
+C:\Users\Daniel\Desktop\MD6\MD6\bin\Debug\MD6.exe
+C:\Users\Daniel\Desktop\MD6\MD6\bin\Debug\MD6.pdb
+C:\Users\Daniel\Desktop\MD6\MD6\obj\Debug\MD6.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\MD6\MD6\obj\Debug\MD6.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\MD6\MD6\obj\Debug\MD6.exe
+C:\Users\Daniel\Desktop\MD6\MD6\obj\Debug\MD6.pdb

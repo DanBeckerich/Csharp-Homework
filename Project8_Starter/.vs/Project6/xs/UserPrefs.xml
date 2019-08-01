@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{03BA8A8F-F01D-4336-8574-2A17B1B2EF45}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project6/Players/TemplatePlayer.cs">
+    <Files>
+      <File FileName="Project6/Players/TemplatePlayer.cs" Line="40" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Project6 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

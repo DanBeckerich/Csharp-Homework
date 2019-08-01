@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\E3P1\E3P1\obj\Debug\E3P1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\source\repos\E3P1\E3P1\obj\Debug\E3P1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\E3P1\E3P1\bin\Debug\E3P1.exe.config
+C:\Users\Daniel\source\repos\E3P1\E3P1\bin\Debug\E3P1.exe
+C:\Users\Daniel\source\repos\E3P1\E3P1\bin\Debug\E3P1.pdb
+C:\Users\Daniel\source\repos\E3P1\E3P1\obj\Debug\E3P1.exe
+C:\Users\Daniel\source\repos\E3P1\E3P1\obj\Debug\E3P1.pdb
+C:\Users\Daniel\Desktop\C#\M3\Exercises 3\E3P1\E3P1\bin\Debug\E3P1.exe.config
+C:\Users\Daniel\Desktop\C#\M3\Exercises 3\E3P1\E3P1\bin\Debug\E3P1.exe
+C:\Users\Daniel\Desktop\C#\M3\Exercises 3\E3P1\E3P1\bin\Debug\E3P1.pdb
+C:\Users\Daniel\Desktop\C#\M3\Exercises 3\E3P1\E3P1\obj\Debug\E3P1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\C#\M3\Exercises 3\E3P1\E3P1\obj\Debug\E3P1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\C#\M3\Exercises 3\E3P1\E3P1\obj\Debug\E3P1.exe
+C:\Users\Daniel\Desktop\C#\M3\Exercises 3\E3P1\E3P1\obj\Debug\E3P1.pdb

@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\Pa7_1\Pa7_1\bin\Debug\Pa7_1.exe.config
+C:\Users\Daniel\source\repos\Pa7_1\Pa7_1\bin\Debug\Pa7_1.exe
+C:\Users\Daniel\source\repos\Pa7_1\Pa7_1\bin\Debug\Pa7_1.pdb
+C:\Users\Daniel\source\repos\Pa7_1\Pa7_1\obj\Debug\Pa7_1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\source\repos\Pa7_1\Pa7_1\obj\Debug\Pa7_1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Pa7_1\Pa7_1\obj\Debug\Pa7_1.exe
+C:\Users\Daniel\source\repos\Pa7_1\Pa7_1\obj\Debug\Pa7_1.pdb
+C:\Users\Daniel\Desktop\C#\Pa7_1\Pa7_1\bin\Debug\Pa7_1.exe.config
+C:\Users\Daniel\Desktop\C#\Pa7_1\Pa7_1\bin\Debug\Pa7_1.exe
+C:\Users\Daniel\Desktop\C#\Pa7_1\Pa7_1\bin\Debug\Pa7_1.pdb
+C:\Users\Daniel\Desktop\C#\Pa7_1\Pa7_1\obj\Debug\Pa7_1.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\C#\Pa7_1\Pa7_1\obj\Debug\Pa7_1.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\C#\Pa7_1\Pa7_1\obj\Debug\Pa7_1.exe
+C:\Users\Daniel\Desktop\C#\Pa7_1\Pa7_1\obj\Debug\Pa7_1.pdb

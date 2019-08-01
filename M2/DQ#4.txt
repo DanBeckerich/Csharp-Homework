@@ -1,0 +1,1 @@
+Static variables are similar to global variables but are restricted to the current class. Instance members belong to the instance of the object they were created in.

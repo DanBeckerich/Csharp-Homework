@@ -1,0 +1,14 @@
+C:\Users\Daniel\Desktop\Battleshipv2\BattleshipRefactor\obj\Debug\BattleshipRefactor.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Battleshipv2\BattleshipRefactor\obj\Debug\BattleshipRefactor.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Battleshipv2\BattleshipRefactor\bin\Debug\BattleshipSimple.exe.config
+C:\Users\Daniel\Desktop\Battleshipv2\BattleshipRefactor\bin\Debug\BattleshipSimple.exe
+C:\Users\Daniel\Desktop\Battleshipv2\BattleshipRefactor\bin\Debug\BattleshipSimple.pdb
+C:\Users\Daniel\Desktop\Battleshipv2\BattleshipRefactor\obj\Debug\BattleshipSimple.exe
+C:\Users\Daniel\Desktop\Battleshipv2\BattleshipRefactor\obj\Debug\BattleshipSimple.pdb
+C:\Users\Daniel\Desktop\C#\M2\Battleshipv2\BattleshipRefactor\bin\Debug\BattleshipSimple.exe.config
+C:\Users\Daniel\Desktop\C#\M2\Battleshipv2\BattleshipRefactor\bin\Debug\BattleshipSimple.exe
+C:\Users\Daniel\Desktop\C#\M2\Battleshipv2\BattleshipRefactor\bin\Debug\BattleshipSimple.pdb
+C:\Users\Daniel\Desktop\C#\M2\Battleshipv2\BattleshipRefactor\obj\Debug\BattleshipRefactor.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\C#\M2\Battleshipv2\BattleshipRefactor\obj\Debug\BattleshipRefactor.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\C#\M2\Battleshipv2\BattleshipRefactor\obj\Debug\BattleshipSimple.exe
+C:\Users\Daniel\Desktop\C#\M2\Battleshipv2\BattleshipRefactor\obj\Debug\BattleshipSimple.pdb

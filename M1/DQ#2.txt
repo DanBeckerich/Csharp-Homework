@@ -1,0 +1,3 @@
+operator Precedence is similar to the order of operations we use for mathematics, except it applies to programming operators. In C#. an expression is parsed from left to right, (except Unary operations, conditional, and assignment operators), each operator is also assigned a priority, again, similarly to the order of operations, the specific order in which operations are executed can affect the value of an equation. for example:
+
+ 10 - 6 / 2 normally equals 7, if you perform the subtraction first, you would get 2 for that equation. 
